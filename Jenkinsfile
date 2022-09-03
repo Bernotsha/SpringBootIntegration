@@ -10,7 +10,7 @@ pipeline{
       steps{
         echo 'building an application'
         }
-      }
+
     }
     stage("deploy"){
         
